@@ -22,17 +22,17 @@ let info = {
 var city = 'san francisco'
 */
 
-function macherTorkari (mach, shobji, mosla){
-	//cooking instruction
-	console.log('oil doing hot');
-	console.log('mosla burn');
-	console.log('vegetable mixed');
-	console.log(mach + ' din');
+// function macherTorkari (mach, shobji, mosla){
+// 	//cooking instruction
+// 	console.log('oil doing hot');
+// 	console.log('mosla burn');
+// 	console.log('vegetable mixed');
+// 	console.log(mach + ' din');
 
-	//cooking end
-	return 'delicious fish ready!';
-}
+// 	//cooking end
+// 	return 'delicious fish ready!';
+// }
 
-//function call
-const result = macherTorkari ('ellis', 'potato', 'holud');
-console.log(result);
+// //function call
+// const result = macherTorkari ('ellis', 'potato', 'holud');
+// console.log(result);
